@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<estudiante>
+    <titulo>
+        Universidad del Valle
+    </titulo>
+    <logo>
+         
+    </logo>
+
+    <sede>
+        <sede>
+            Sede : 
+        </sede>
+        <dato>
+            Caicedonia 
+        </dato>   
+    </sede> 
+    <codigo>
+        <codigo>
+          Codigo:    
+        </codigo>
+        <dato>
+           1761910 
+        </dato>
+     </codigo>   
+   <nombre>
+         <nombre>
+         Nombre:
+        </nombre>
+        <dato1>
+            Daniela Andrea
+        </dato1> 
+        <dato2>
+           Gonzalez Henao 
+        </dato2>
+    </nombre>
+    <identificacion>
+        <id>
+           Identificación: 
+        </id>
+        <dato>
+           1115195022 
+        </dato>
+    </identificacion>
+    <programa>
+     <programa> Programa:   </programa>
+        <dato>
+            Tecnología en Sistemas de Información
+        </dato>
+    </programa>    
+    <foto>
+     
+        
+        
+           
+    </foto>
+</estudiante>

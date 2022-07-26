@@ -1,0 +1,127 @@
+/* Cascade style sheet based on Carnetestudiantil.dtd DTD */
+estudiante { display: block;
+             position: absolute;
+             top: 30%;
+             left: 50%;
+             transform: translate(-50%, -50%);
+             margin: 8px;
+             width: 33%;
+             height: 35%;
+             position: relative;
+             border: red 3px solid; 
+             border-radius: 10px;
+}
+titulo { display: block;
+         font-family: sans-serif;
+         font-weight: bold;
+         font-size: 30px;
+         text-align: center;
+         position: relative;
+         top : 15px;
+         color: red;
+         text-decoration: underline ; 
+        }
+logo {  display:  block;
+       width:3rem;
+       height: 60px;
+       position:absolute;
+       top: 3.5%;
+       left: 3px;
+       background-image:url(LogoUV.jpg);
+       background-repeat: no-repeat;
+       background-size: 100%; 
+}
+sede { display: block;
+       
+}
+sedenombre,datosede{ display: inline;
+                     font-family: sans-serif;
+                     position: relative;
+                     top:16.5px;
+                     left: 5px;
+                   
+
+}
+
+codigo { display: block ;
+         
+       
+}
+codigonombre,codigodato { display: inline;
+                           font-family: sans-serif;
+                            font-weight: bold;
+                             position: relative;
+                            top:45px; 
+                            border-bottom: red 3px solid;
+                            left: 5px;
+                           
+}
+
+nombre { display: block }
+nombreest,datonombre{ display: inline;
+                      font-family: sans-serif;
+                      font-weight: bold;
+                        position: relative;
+                               top:50px; 
+                     left: 5px;
+}
+
+apellido { display: block }
+apellidoeti,datoapellido { display: inline;
+                            font-family: sans-serif;
+                            font-weight: bold;
+                              position: relative;
+                               top:50px;
+                                left: 5px;
+                              
+}
+
+identificacion { display: block;
+}
+id,datoid { display: inline;
+            font-family: sans-serif;
+            font-weight: bold;
+              position: relative;
+             top:50px; 
+          border-bottom: red 3px solid;
+           left: 5px;
+}
+
+programa { display: block }
+programanom,prog { display: inline;
+                   font-family: sans-serif;
+                   font-weight: bold;
+                     position: relative;
+                    top:60px; 
+                 border-bottom: red 3px solid;  
+                  left: 5px;
+                  
+}
+
+foto { display: block }
+fotoeti {
+    display:  block;
+    text-align: center;
+   transform: translate(8rem, -6.2rem);
+
+                 
+}
+fotoimg { display: block ;
+       position: absolute;
+       width: 8rem;
+       height: 6.5rem;
+       top: 75px;
+       left: 19rem;
+       background-image:url(Foto.jpg.jpg);
+       background-repeat: no-repeat;
+       background-size: 100%;
+
+
+}
+
+
+
+
+      
+
+

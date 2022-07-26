@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE estudiante SYSTEM "carnetestudiantil.dtd">
+<?xml-stylesheet href="Carnetestudiantil.css" type="text/css" ?>
+
+<estudiante>
+    <titulo>
+        Universidad del Valle
+    </titulo>
+    <logo>
+     </logo>
+<sede>
+      <sedenombre>
+            Sede : 
+        </sedenombre>
+        <datosede>
+            Caicedonia 
+        </datosede>   
+</sede>
+ <codigo>
+        <codigonombre>
+          Codigo:    
+        </codigonombre>
+        <codigodato>
+           1761910 
+        </codigodato>
+  </codigo>   
+   <nombre>
+         <nombreest>
+         Nombre:
+        </nombreest>
+        <datonombre>
+            Daniela Andrea
+        </datonombre> 
+  </nombre>
+  <apellido>
+      <apellidoeti>
+          Apellidos:
+      </apellidoeti>
+      <datoapellido>
+          GONZÁLEZ HENAO
+      </datoapellido>
+  </apellido>
+    <identificacion>
+        <id>
+           Identificación: 
+        </id>
+        <datoid>
+           1115195022 
+        </datoid>
+    </identificacion>
+    <programa>
+     <programanom> Programa: 
+         
+     </programanom>
+        <prog>
+  Tecnología en Sistemas de
+      Información
+        </prog>
+    </programa>    
+    <foto>
+        <fotoeti>
+            Estudiante
+        </fotoeti>
+        <fotoimg>
+        </fotoimg>
+    </foto>
+</estudiante>
